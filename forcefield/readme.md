@@ -8,5 +8,5 @@ same to the usage of [original Martini3 protein](https://cgmartini.nl/docs/tutor
    - Martini3-IDP2_martinize2 format
    - Martini3-IDP2_Polyply format
 #### Tutorial
-same to the tutorial of [Martini3-IDP](https://github.com/Martini-Force-Field-Initiative/Martini3-IDP-parameters/blob/main/force%20filed/readme.md)
+same to the tutorial of [Martini3-IDP](https://github.com/Martini-Force-Field-Initiative/Martini3-IDP-parameters/tree/main/force_field/readme.md)
 
