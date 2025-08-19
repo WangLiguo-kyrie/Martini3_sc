@@ -4,7 +4,7 @@
 same to the usage of [original Martini3 protein](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/) 
 
 ## Refined Martini3 side chains extensions to Martini3-IDP (name: Martini3-IDP2 or Martini3-IDPsc)
- - Martini3-IDP2: Martini3-IDP with refined side chains.
+ - Martini3-IDP2 (Martini3-IDPsc): Martini3-IDP with refined side chains.
    - Martini3-IDP2_martinize2 format
    - Martini3-IDP2_Polyply format
 #### Tutorial
